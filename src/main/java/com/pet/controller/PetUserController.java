@@ -67,7 +67,7 @@ public class PetUserController {
 	{
 		System.out.println(petUser.getUsername());
 		System.out.println(petUser.getPwd());
-		if(null==petUser.getUsername()) return new ResponseEntity<>("a1123141git",HttpStatus.OK);
+		if(null==petUser.getUsername()) return new ResponseEntity<>("a1123asdas141git",HttpStatus.OK);
 		else{
 			PetUser user = petUserService.findUniqueBy("username",petUser.getUsername());
 		    if(null==user) return new ResponseEntity<>(HttpStatus.NOT_FOUND);
