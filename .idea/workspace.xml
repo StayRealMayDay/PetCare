@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pet/controller/PetUserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="69" column="80" lean-forward="false" selection-start-line="69" selection-start-column="80" selection-end-line="69" selection-end-column="80" />
+              <caret line="69" column="75" lean-forward="false" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -601,7 +601,7 @@
       <workItem from="1489019746276" duration="1366000" />
       <workItem from="1489558457262" duration="147000" />
       <workItem from="1489558622153" duration="1772000" />
-      <workItem from="1489562808122" duration="291000" />
+      <workItem from="1489562808122" duration="516000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1489562883078</created>
@@ -610,11 +610,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489562883078</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="111">
+      <created>1489563168150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489563168150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15834000" />
+    <option name="totallyTimeSpent" value="16059000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -671,7 +678,8 @@
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1045,7 +1053,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pet/controller/PetUserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="69" column="80" lean-forward="false" selection-start-line="69" selection-start-column="80" selection-end-line="69" selection-end-column="80" />
+          <caret line="69" column="75" lean-forward="false" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
           <folding />
         </state>
       </provider>
